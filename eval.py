@@ -1,5 +1,3 @@
-"""Evaluation entry for trained HiFi-ST models."""
-
 import os
 from pathlib import Path
 from typing import Tuple
