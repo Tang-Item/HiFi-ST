@@ -7,7 +7,9 @@ The current implementation supports three dataset settings:
 - HER2ST breast cancer spatial transcriptomics data
 - Human cutaneous squamous cell carcinoma spatial transcriptomics data from GSE144240
 - Alex+10x spatial transcriptomics data
+- The GSE175540 Visium FFPE dataset used for external TLS region analysis
 
+<img width="3359" height="2647" alt="fig 1" src="https://github.com/user-attachments/assets/8c823eb4-7eff-4b49-8cf2-32cde994ebe5" />
 
 
 
