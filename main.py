@@ -1,5 +1,3 @@
-"""Command-line entry for HiFi-ST."""
-
 import argparse
 import os
 import random
@@ -90,7 +88,7 @@ def run_train(args, fold: int):
         condition_dim=args.condition_dim,
         neural_hidden_dim=args.hidden_dim,
         aggregator_samples=args.aggregator_samples,
-        use_fourier_pe=args.use_fourier_pe,
+        use_fourier_pe=not args.disable_fourier_pe,
         enable_film=not args.disable_film,
         uniform_scale_weights=args.uniform_scale_weights,
         enable_heg_branch=not args.disable_heg_branch and args.dataset == "cSCC",
