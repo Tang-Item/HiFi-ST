@@ -1,5 +1,3 @@
-"""HiFi-ST model."""
-
 import math
 from typing import Dict, Iterable, Optional, Tuple, Union
 
