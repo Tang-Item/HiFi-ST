@@ -9,7 +9,7 @@ The current implementation supports three dataset settings:
 - Alex+10x spatial transcriptomics data
 - The GSE175540 Visium FFPE dataset used for external TLS region analysis
 
-<img width="3359" height="2647" alt="fig 1" src="(https://github.com/Tang-Item/HiFi-ST/blob/main/Figure%201.jpg)" />
+<img width="3359" height="2647" alt="fig 1" src="https://github.com/Tang-Item/HiFi-ST/blob/main/Figure%201.jpg" />
 
 
 
